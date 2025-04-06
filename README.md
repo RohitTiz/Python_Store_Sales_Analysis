@@ -1,14 +1,17 @@
-# 🛒 Store Sales Analysis
-
-This project provides an in-depth analysis of store sales data using Python. The goal is to identify customer behavior patterns, sales trends, and high-performing segments to support better business and marketing strategies.
-
 📓 [View the analysis on Google Colab](https://colab.research.google.com/drive/14PFxjibYBiMk7ZrC1o_cgl76i2EHxNzE?usp=sharing)
+# 🛒 online Store Sales Analysis
+
+This project provides an in-depth analysis of online store sales data using Python. The goal is to identify customer behavior patterns, sales trends, and high-performing segments to support better business and marketing strategies.
+
+---
 
 ## 📌 Project Overview
 
 - Cleaned and preprocessed the dataset using **Pandas**.
 - Created insightful visualizations with **Matplotlib** and **Seaborn**.
 - Analyzed customer demographics, product performance, and regional trends.
+
+---
 
 ## 🔍 Key Insights
 
@@ -18,13 +21,21 @@ This project provides an in-depth analysis of store sales data using Python. The
 - **Clothing** has the highest number of orders.
 - **Food** generates the highest revenue overall.
 
+---
+
 ## 🛠️ Tools & Libraries Used
 
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
-- Google collab
+- Google Colab
+
+---
+
+
+
+
 
 
 
