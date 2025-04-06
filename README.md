@@ -2,6 +2,8 @@
 
 This project provides an in-depth analysis of store sales data using Python. The goal is to identify customer behavior patterns, sales trends, and high-performing segments to support better business and marketing strategies.
 
+📓 [View the analysis on Google Colab](https://colab.research.google.com/drive/14PFxjibYBiMk7ZrC1o_cgl76i2EHxNzE?usp=sharing)
+
 ## 📌 Project Overview
 
 - Cleaned and preprocessed the dataset using **Pandas**.
@@ -22,7 +24,7 @@ This project provides an in-depth analysis of store sales data using Python. The
 - Pandas
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Google collab
 
-## 📁 Folder Structure
+
 
